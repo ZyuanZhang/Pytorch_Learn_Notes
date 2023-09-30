@@ -1,2 +1,2 @@
 # Pytorch_Learn_Notes
-Notes of learning pytorch.
+Notes of self-learning pytorch.
