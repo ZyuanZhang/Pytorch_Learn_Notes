@@ -4,7 +4,7 @@
 # Valid-Cats: 35; Valid-Dogs: 35
 # Test-Cats: 35; Test-Dogs: 35
 
-# 可以直接将 "./cat_and_dog_images/" 和 "./rmb_split/" 进行解压即可直接运行该脚本
+# 数据集可以从 阿里云盘 下载。
 
 import random
 import os
